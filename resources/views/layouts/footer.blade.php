@@ -10,9 +10,9 @@
             <a href="/">
                 <strong>{{ env('APP_NAME') }}</strong>
             </a> design by
-            <a href="https://github.com/hui-ho" target="_blank">
-                <strong>hui-ho</strong>
-            </a>
+            <span>
+                <strong>链上张三</strong>
+            </span>
             <span>{{ config('icp_record') }}</span>
             <!--  - Purchase for only <strong>23$</strong> -->
         </div>

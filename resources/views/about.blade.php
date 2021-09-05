@@ -13,8 +13,7 @@
                 </a>
             </div>
             <div class="navbar-mobile-clear"></div>
-            <a href="https://github.com/hui-ho/WebStack-Laravel" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
-        </div>
+		</div>
     </nav>
     <div class="page-container">
         <!-- add class "sidebar-collapsed" to close sidebar by default, "chat-visible" to make chat appear always -->
@@ -28,27 +27,27 @@
                             <div class="row">
                                 <div class="col-sm-12">
                                     <blockquote>
-                                        <p>这是一个开源的网址导航网站项目，您可以拿来制作自己的网址导航，也可以做与导航无关的网站。</p>
+                                        <p>这是一个区块链网址导航网站项目，您可以收藏了解最新的区块链知识与信息，不定期更新区块链项目以及区块链相关内容。</p>
                                         </br>
-                                        <p>网站前台静态页面采用 <a href="http://viggoz.com/" target="_blank">viggoz</a> 的 <a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStack</a> 项目源码。</p>
-                                        <p>如果对本项目有任何建议都可以发起 issue。</p>
+                                        <p>可以访问eth.tg <a href="http://www.eth.tg" target="_blank">eth.tg</a> 或者 <a href="http://www.qkl.tg">区块链.tg qkl.tg</a> 来到本站。</p>
+                                        <p>如果有任何的项目或者建议，可以在电报群提交。</p>
                                     </blockquote>
                                 </div>
                             </div>
                             <!-- 关于作者 -->
-                            <h4 class="text-gray">关于作者</h4>
+                            <h4 class="text-gray">关于站长</h4>
                             <div class="row">
                                 <div class="col-sm-4">
-                                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://www.viggoz.com/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://www.viggoz.com/">
+                                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://www.qkl.tg', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://www.qkl.tg">
                                         <div class="xe-comment-entry">
                                             <a class="xe-user-img">
                                                 <img src="https://avatars1.githubusercontent.com/u/28501148?s=460&v=4" class="img-circle" width="40">
                                             </a>
                                             <div class="xe-comment">
                                                 <a href="#" class="xe-user-name overflowClip_1">
-                                                    <strong>Designer. hui-ho.</strong>
+                                                    <strong>链上张三</strong>
                                                 </a>
-                                                <p class="overflowClip_2"> hui-ho@outlook.com</p>
+                                                <p class="overflowClip_2"> liandaoshi@gmail.com</p>
                                             </div>
                                         </div>
                                     </div>
@@ -59,7 +58,7 @@
                                             <br />
                                             <blockquote>
                                                 <p>
-                                                    这是一个公益项目，而且是<a href="https://github.com/hui-ho/WebStack-Laravel"> 开源 </a>的。你也可以拿来制作自己的网址导航。如果你有更好的想法，可以通过邮件与我联系，欢迎与我交流分享。
+                                                    这是一个公益项目，分享更多更棒的区块链信息。如果你有更好的想法，可以通过邮件与我联系，欢迎与我交流分享。
                                                 </p>
                                             </blockquote>
                                         </div>

@@ -29,7 +29,7 @@
                                     <blockquote>
                                         <p>这是一个区块链网址导航网站项目，您可以收藏了解最新的区块链知识与信息，不定期更新区块链项目以及区块链相关内容。</p>
                                         </br>
-                                        <p>可以访问eth.tg <a href="http://www.eth.tg" target="_blank">eth.tg</a> 或者 <a href="http://www.qkl.tg">区块链.tg qkl.tg</a> 来到本站。</p>
+                                        <p>可以访问 <a href="http://www.eth.tg" target="_blank">eth.tg</a> 或者 <a href="http://www.qkl.tg">qkl.tg</a> 来到本站。</p>
                                         <p>如果有任何的项目或者建议，可以在电报群提交。</p>
                                     </blockquote>
                                 </div>

@@ -108,7 +108,11 @@ return [
                 'provider' => 'admin',
             ],
         ],
-
+        
+        'excepts'=>[
+            'auth/login',
+        ],
+        
         'providers' => [
             'admin' => [
                 'driver' => 'eloquent',
